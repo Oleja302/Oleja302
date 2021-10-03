@@ -6,5 +6,5 @@
 <p align="center">
   <a href="https://github.com/Oleja302"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://vk.com/oleja2003"><img src="https://img.shields.io/badge/VK-597da3?style=for-the-badge&logo=VK&logoColor=white"></a>
-  <a href="https://https://web.telegram.org/z/"><img src="https://img.shields.io/badge/Telegram-50a5e7?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://t.me/Oleja302"><img src="https://img.shields.io/badge/Telegram-50a5e7?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
